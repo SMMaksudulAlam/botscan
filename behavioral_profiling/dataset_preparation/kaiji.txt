@@ -1,0 +1,1001 @@
+Dateadded (UTC)	URL	Status	Tags	Reporter
+2026-04-11 18:09:32	http://s3.mgirbvre.top:8888/linux_mipsel	Offline	elf Kaiji ua-wget	 NDA0E
+2026-04-11 18:09:26	http://s3.mgirbvre.top:8888/linux_386	Offline	elf Kaiji ua-wget	 NDA0E
+2026-04-11 18:09:26	http://s3.mgirbvre.top:8888/linux_amd64	Offline	elf Kaiji ua-wget	 NDA0E
+2026-04-11 18:09:26	http://s3.mgirbvre.top:8888/linux_mips64el	Offline	elf Kaiji ua-wget	 NDA0E
+2026-04-11 18:09:25	http://s3.mgirbvre.top:8888/linux_arm7	Offline	elf Kaiji ua-wget	 NDA0E
+2026-04-11 18:09:21	http://s3.mgirbvre.top:8888/linux_arm6	Offline	elf Kaiji ua-wget	 NDA0E
+2026-04-11 18:09:15	http://s3.mgirbvre.top:8888/linux_arm5	Offline	elf Kaiji ua-wget	 NDA0E
+2026-04-11 18:09:15	http://s3.mgirbvre.top:8888/linux_mips64	Offline	elf Kaiji ua-wget	 NDA0E
+2026-04-11 18:09:15	http://s3.mgirbvre.top:8888/linux_aarch64	Offline	elf Kaiji ua-wget	 NDA0E
+2026-04-11 18:09:15	http://s3.mgirbvre.top:8888/linux_mips	Offline	elf Kaiji ua-wget	 NDA0E
+2026-04-11 18:07:09	http://176.65.149.237/download.sh	Offline	Kaiji sh ua-wget	 NDA0E
+2026-04-11 18:06:37	http://176.65.149.237/linux_arm7	Offline	elf Kaiji ua-wget	 NDA0E
+2026-04-11 18:06:33	http://176.65.149.237/linux_amd64	Offline	elf Kaiji ua-wget	 NDA0E
+2026-03-06 14:21:32	http://45.207.157.11/linux_arm7	Offline	elf Kaiji ua-wget	 NDA0E
+2026-03-06 14:21:24	http://45.207.157.11/linux_amd64	Offline	elf Kaiji ua-wget	 NDA0E
+2026-03-06 14:21:24	http://45.207.157.11/linux_arm64	Offline	elf Kaiji ua-wget	 NDA0E
+2026-02-25 20:24:20	http://130.12.182.211:25196/el	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-25 20:24:15	http://118.107.41.238:808/linux_mipsel_softfloat	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-25 20:24:02	http://118.107.41.238:808/linux_mips64_softfloat	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-25 20:24:02	http://118.107.41.238:808/linux_mips64el	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-25 20:24:02	http://118.107.41.238:808/linux_ppc64	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-25 20:24:02	http://118.107.41.238:808/linux_mips	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-25 20:24:02	http://118.107.41.238:808/linux_arm6	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-25 20:24:02	http://118.107.41.238:808/linux_mips_softfloat	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-25 20:24:02	http://118.107.41.238:808/linux_arm64	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-25 20:24:02	http://118.107.41.238:808/linux_arm5	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-25 20:24:01	http://118.107.41.238:808/linux_arm7	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-25 20:23:58	http://118.107.41.238:808/linux_mips64	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-25 20:23:57	http://118.107.41.238:808/linux_amd64	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-25 20:23:56	http://118.107.41.238:808/linux_mips64el_softfloat	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-25 20:23:56	http://118.107.41.238:808/linux_386	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-25 20:23:55	http://118.107.41.238:808/linux_ppc64el	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-25 20:23:49	http://118.107.41.238:808/linux_mipsel	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-22 11:20:20	http://130.12.182.211:25196/linux_amd64	Offline	elf Kaiji ua-wget	 NDA0E
+2026-02-22 11:20:20	http://130.12.182.211:25196/linux_mips64	Offline	elf Kaiji ua-wget	 NDA0E
+2026-02-22 11:20:20	http://130.12.182.211:25196/linux_arm5	Offline	elf Kaiji ua-wget	 NDA0E
+2026-02-22 11:20:20	http://130.12.182.211:25196/linux_mipsel	Offline	elf Kaiji ua-wget	 NDA0E
+2026-02-22 11:20:20	http://130.12.182.211:25196/linux_386	Offline	elf Kaiji ua-wget	 NDA0E
+2026-02-22 11:20:20	http://130.12.182.211:25196/linux_mips	Offline	elf Kaiji ua-wget	 NDA0E
+2026-02-22 11:20:20	http://130.12.182.211:25196/linux_arm7	Offline	elf Kaiji ua-wget	 NDA0E
+2026-02-22 11:20:20	http://130.12.182.211:25196/linux_aarch64	Offline	elf Kaiji ua-wget	 NDA0E
+2026-02-22 11:20:20	http://130.12.182.211:25196/linux_arm6	Offline	elf Kaiji ua-wget	 NDA0E
+2026-02-01 23:59:33	http://orcjtktm.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:53:32	http://lixcwtte.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:53:10	http://orcjtktm.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:52:54	http://ogvsjrzp.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:51:58	http://os6dx651.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:51:31	http://rjooiyab.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:51:30	http://mtwouhao.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:51:24	http://pedgwkam.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:51:01	http://ocjhedjr.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:51:00	http://nvnrrcgk.xyz:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:50:34	http://qeywpydg.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:50:33	http://qmzxyuki.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:50:31	http://nvnrrcgk.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:49:14	http://oyeboxws.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:49:04	http://pnycdqzp.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:48:06	http://qfacshnp.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:48:04	http://pedgwkam.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:48:03	http://ivjlemmr.xyz:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:48:03	http://lixcwtte.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:47:30	http://nvnrrcgk.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:44:55	http://iyuvcidg.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:44:54	http://rjooiyab.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:44:27	http://orcjtktm.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:44:21	http://quuwebra.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:44:11	http://nvnrrcgk.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:44:11	http://pedgwkam.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:43:53	http://kvsmaruh.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:42:56	http://pedgwkam.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:42:51	http://oyeboxws.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:42:37	http://rjooiyab.xyz:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:42:34	http://oyeboxws.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:42:32	http://lixcwtte.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:42:24	http://os6dx651.xyz:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:42:19	http://qxfpdbko.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:42:08	http://mtwouhao.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:41:08	http://pnycdqzp.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:40:46	http://os6dx651.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:40:45	http://lixcwtte.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:40:40	http://nvnrrcgk.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:39:45	http://iyuvcidg.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:39:03	http://rgeqlmgw.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:38:02	http://os6dx651.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:37:41	http://pnycdqzp.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:37:09	http://orcjtktm.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:34:22	http://qfacshnp.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:33:30	http://quuwebra.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:33:27	http://rjooiyab.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:33:08	http://kvsmaruh.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:32:51	http://qeywpydg.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:32:44	http://iyuvcidg.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:32:43	http://118.107.41.45:808/linux_ppc64el	Offline	botnet Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:32:33	http://quuwebra.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:32:19	http://os6dx651.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:32:00	http://ocjhedjr.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:31:59	http://lixcwtte.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:31:54	http://iykzszow.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:31:12	http://qxfpdbko.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:31:08	http://qeywpydg.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:30:53	http://kvsmaruh.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:30:45	http://ogvsjrzp.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:30:35	http://ivjlemmr.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:30:25	http://rjooiyab.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:30:11	http://lixcwtte.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:29:37	http://ogvsjrzp.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:29:37	http://lixcwtte.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:29:27	http://qmzxyuki.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:28:59	http://pedgwkam.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:28:43	http://quuwebra.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:28:42	http://lixcwtte.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:28:39	http://rjooiyab.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:27:40	http://iykzszow.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:27:40	http://pnycdqzp.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:27:39	http://rgeqlmgw.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:27:04	http://ocjhedjr.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:26:39	http://pedgwkam.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:26:37	http://os6dx651.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:26:20	http://118.107.41.45:808/linux_mipsel_softfloat	Offline	botnet Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:26:15	http://owibsmmy.xyz:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:26:15	http://ivjlemmr.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:26:12	http://qfacshnp.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:26:03	http://118.107.41.45:808/linux_mips64el	Offline	botnet Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:25:39	http://rgeqlmgw.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:25:34	http://qmzxyuki.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:25:14	http://orcjtktm.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:25:02	http://owibsmmy.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:24:45	http://iyuvcidg.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:24:22	http://orcjtktm.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:24:01	http://pnycdqzp.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:23:59	http://os6dx651.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:23:53	http://orcjtktm.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:22:51	http://owibsmmy.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:22:43	http://qeywpydg.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:22:18	http://qxfpdbko.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:21:34	http://ogvsjrzp.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:21:31	http://ivjlemmr.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:21:26	http://lixcwtte.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:21:24	http://owibsmmy.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:21:10	http://pedgwkam.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:20:38	http://oyeboxws.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:20:28	http://qxfpdbko.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:20:22	http://mtwouhao.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:19:52	http://ogvsjrzp.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:19:17	http://rgeqlmgw.xyz:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:18:23	http://oyeboxws.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:18:22	http://iyuvcidg.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:17:33	http://iyuvcidg.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:17:14	http://iykzszow.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:16:51	http://oyeboxws.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:16:20	http://kvsmaruh.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:16:15	http://oyeboxws.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:15:58	http://quuwebra.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:15:42	http://oyeboxws.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:15:21	http://qfacshnp.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:15:08	http://os6dx651.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:14:42	http://mtwouhao.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:14:31	http://ocjhedjr.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:13:55	http://oyeboxws.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:13:46	http://quuwebra.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:13:41	http://os6dx651.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:13:33	http://os6dx651.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:13:13	http://qeywpydg.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:13:09	http://orcjtktm.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:12:21	http://lixcwtte.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:11:59	http://quuwebra.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:11:53	http://iykzszow.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:11:50	http://nvnrrcgk.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:11:48	http://oyeboxws.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:11:39	http://quuwebra.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:11:18	http://qmzxyuki.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:11:06	http://kvsmaruh.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:10:58	http://pnycdqzp.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:10:54	http://rgeqlmgw.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:10:38	http://owibsmmy.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:10:31	http://qmzxyuki.xyz:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:10:29	http://qfacshnp.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:10:27	http://iykzszow.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:10:24	http://iykzszow.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:10:13	http://118.107.41.45:808/linux_mips64_softfloat	Offline	botnet Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:10:07	http://ocjhedjr.xyz:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:10:07	http://owibsmmy.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:09:58	http://pnycdqzp.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:09:49	http://iyuvcidg.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:08:45	http://rjooiyab.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:07:35	http://rgeqlmgw.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:07:26	http://ivjlemmr.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:07:24	http://rgeqlmgw.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:06:02	http://ogvsjrzp.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:05:54	http://ocjhedjr.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:05:42	http://orcjtktm.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:05:23	http://qmzxyuki.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:05:22	http://iyuvcidg.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:05:01	http://quuwebra.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:05:01	http://iyuvcidg.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:04:15	http://lixcwtte.xyz:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:04:13	http://qeywpydg.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:04:09	http://nvnrrcgk.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:03:59	http://iyuvcidg.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:03:50	http://rgeqlmgw.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:03:15	http://qfacshnp.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:02:45	http://qfacshnp.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:02:35	http://nvnrrcgk.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:02:20	http://ivjlemmr.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:02:11	http://orcjtktm.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:01:58	http://iykzszow.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:01:33	http://pedgwkam.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:01:28	http://kvsmaruh.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:01:28	http://ivjlemmr.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 23:01:26	http://lixcwtte.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:01:23	http://mtwouhao.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:01:03	http://nvnrrcgk.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:00:57	http://rgeqlmgw.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:00:56	http://qxfpdbko.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:00:53	http://lixcwtte.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 23:00:41	http://os6dx651.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:59:55	http://ocjhedjr.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:59:27	http://mtwouhao.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:57:54	http://qfacshnp.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:57:19	http://kvsmaruh.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 22:55:21	http://quuwebra.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:52:48	http://rgeqlmgw.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:51:33	http://pedgwkam.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:50:35	http://kvsmaruh.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 22:47:47	http://iykzszow.xyz:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 22:46:06	http://qmzxyuki.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:45:55	http://iyuvcidg.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 22:44:38	http://qeywpydg.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:43:00	http://qxfpdbko.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:42:25	http://oyeboxws.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:42:05	http://rjooiyab.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:41:19	http://qmzxyuki.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:40:54	http://iykzszow.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 22:40:41	http://qxfpdbko.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:40:38	http://iykzszow.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 22:40:29	http://qeywpydg.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:39:08	http://qxfpdbko.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:37:13	http://ogvsjrzp.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:35:35	http://kvsmaruh.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 22:34:43	http://quuwebra.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:34:09	http://qeywpydg.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:34:07	http://ogvsjrzp.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:33:13	http://pedgwkam.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:33:12	http://118.107.41.45:808/linux_ppc64	Offline	botnet Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 22:33:07	http://owibsmmy.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:33:06	http://qfacshnp.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:32:38	http://iykzszow.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 22:32:33	http://ocjhedjr.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:32:12	http://qfacshnp.xyz:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:31:02	http://ocjhedjr.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:30:57	http://ivjlemmr.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 22:30:44	http://pedgwkam.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:29:31	http://iykzszow.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 22:29:19	http://mtwouhao.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:28:42	http://iyuvcidg.xyz:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 22:28:09	http://pnycdqzp.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:27:59	http://owibsmmy.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:27:22	http://ivjlemmr.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 22:26:49	http://nvnrrcgk.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:25:45	http://nvnrrcgk.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:25:39	http://rgeqlmgw.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:25:18	http://rjooiyab.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:23:48	http://rgeqlmgw.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:23:16	http://nvnrrcgk.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:22:32	http://qeywpydg.xyz:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:22:21	http://qmzxyuki.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:22:15	http://lixcwtte.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:21:46	http://iyuvcidg.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 22:21:44	http://pnycdqzp.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:21:34	http://qeywpydg.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:21:33	http://iykzszow.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 22:21:14	http://ivjlemmr.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 22:21:10	http://qfacshnp.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:20:56	http://mtwouhao.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:20:07	http://ocjhedjr.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:20:03	http://qxfpdbko.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:19:57	http://owibsmmy.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:19:54	http://iyuvcidg.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 22:19:46	http://oyeboxws.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:19:32	http://quuwebra.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:18:10	http://qxfpdbko.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:17:08	http://ocjhedjr.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:16:20	http://pedgwkam.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:15:05	http://pedgwkam.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:12:46	http://qeywpydg.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:12:03	http://owibsmmy.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:12:01	http://ocjhedjr.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:11:12	http://qmzxyuki.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:10:43	http://nvnrrcgk.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:10:40	http://mtwouhao.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:10:30	http://quuwebra.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:10:01	http://ivjlemmr.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 22:09:58	http://nvnrrcgk.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:09:06	http://ocjhedjr.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:08:32	http://os6dx651.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:08:21	http://qeywpydg.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:07:34	http://owibsmmy.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:06:09	http://orcjtktm.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:06:05	http://rgeqlmgw.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:05:43	http://pnycdqzp.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:05:41	http://qxfpdbko.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:05:22	http://mtwouhao.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:04:54	http://mtwouhao.xyz:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:04:47	http://oyeboxws.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:04:45	http://orcjtktm.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:03:51	http://nvnrrcgk.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:03:23	http://lixcwtte.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:02:30	http://rgeqlmgw.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:02:22	http://iykzszow.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 22:02:11	http://mtwouhao.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:02:08	http://owibsmmy.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:01:27	http://oyeboxws.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:01:26	http://qmzxyuki.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:00:39	http://orcjtktm.xyz:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:00:35	http://ogvsjrzp.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:00:31	http://orcjtktm.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:00:19	http://nvnrrcgk.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 22:00:14	http://qfacshnp.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:58:32	http://pnycdqzp.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:56:54	http://pedgwkam.xyz:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:56:40	http://ocjhedjr.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:56:30	http://qfacshnp.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:56:16	http://ivjlemmr.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 21:56:00	http://ocjhedjr.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:55:14	http://118.107.41.45:808/linux_mipsel	Offline	botnet Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 21:54:28	http://iyuvcidg.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 21:54:01	http://quuwebra.xyz:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:53:59	http://qmzxyuki.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:53:14	http://pedgwkam.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:53:00	http://qeywpydg.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:52:21	http://kvsmaruh.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 21:51:34	http://rjooiyab.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:51:07	http://qmzxyuki.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:50:43	http://qfacshnp.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:50:26	http://os6dx651.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:49:03	http://mtwouhao.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:48:26	http://qmzxyuki.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:46:43	http://qfacshnp.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:45:45	http://pnycdqzp.xyz:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:45:34	http://qxfpdbko.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:45:28	http://pnycdqzp.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:45:20	http://qfacshnp.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:45:06	http://kvsmaruh.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 21:44:47	http://mtwouhao.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:41:42	http://rjooiyab.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:41:35	http://owibsmmy.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:41:30	http://pnycdqzp.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:41:25	http://ivjlemmr.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 21:41:13	http://ivjlemmr.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 21:40:44	http://qxfpdbko.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:40:38	http://owibsmmy.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:40:13	http://ogvsjrzp.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:36:45	http://os6dx651.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:36:25	http://orcjtktm.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:31:57	http://rjooiyab.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:31:22	http://os6dx651.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:31:09	http://iykzszow.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 21:30:10	http://rjooiyab.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:29:27	http://qmzxyuki.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:27:58	http://rgeqlmgw.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:27:57	http://pnycdqzp.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:24:56	http://rgeqlmgw.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:23:32	http://ivjlemmr.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 21:23:00	http://ogvsjrzp.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:22:41	http://ogvsjrzp.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:22:07	http://kvsmaruh.xyz:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 21:21:40	http://oyeboxws.xyz:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:20:43	http://qeywpydg.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:20:23	http://quuwebra.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:14:49	http://kvsmaruh.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 21:12:58	http://ocjhedjr.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:11:38	http://ogvsjrzp.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:10:34	http://mtwouhao.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:10:21	http://mtwouhao.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:10:14	http://ogvsjrzp.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:08:48	http://lixcwtte.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:07:24	http://qeywpydg.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:06:54	http://owibsmmy.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:05:25	http://qxfpdbko.xyz:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:04:45	http://iyuvcidg.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 21:03:29	http://qxfpdbko.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:03:20	http://rjooiyab.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:03:13	http://kvsmaruh.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 21:02:34	http://pedgwkam.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:02:21	http://orcjtktm.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:01:51	http://quuwebra.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 21:00:37	http://iykzszow.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 21:00:28	http://kvsmaruh.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:56:09	http://ogvsjrzp.xyz:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 20:54:32	http://kvsmaruh.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:54:19	http://ogvsjrzp.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 20:53:42	http://rjooiyab.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 20:53:25	http://pnycdqzp.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 20:50:42	http://os6dx651.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai -	 DaveLikesMalwre
+2026-02-01 20:33:24	http://118.107.41.45:808/linux_arm7	Offline	botnet Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:31:40	http://2puw5o64.xyz:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:30:15	http://auycsdvk.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:29:52	http://ahcjfuct.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:29:36	http://512qe0r4.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:29:27	http://56lwuq98.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:29:22	http://6l7c613p.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:29:15	http://1l14s7np.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:29:03	http://2puw5o64.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:29:02	http://512qe0r4.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:28:48	http://1l14s7np.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:28:34	http://attcpehd.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:28:30	http://auycsdvk.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:28:30	http://56lwuq98.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:28:20	http://a9350i8z.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:28:19	http://118.107.41.45:808/linux_arm64	Offline	botnet Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:28:12	http://56lwuq98.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:28:09	http://1l14s7np.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:28:08	http://118.107.41.45:808/linux_mips	Offline	botnet Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:27:59	http://56lwuq98.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:27:54	http://1l14s7np.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:27:52	http://56lwuq98.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:27:50	http://azhvgwsv.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:27:46	http://56lwuq98.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:27:28	http://adlzosoe.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:27:26	http://attcpehd.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:27:22	http://auycsdvk.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:27:15	http://azhvgwsv.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:27:14	http://ahcjfuct.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:26:47	http://ahcjfuct.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:26:24	http://auycsdvk.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:59	http://a9350i8z.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:59	http://ahcjfuct.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:49	http://1l14s7np.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:44	http://512qe0r4.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:44	http://2puw5o64.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:42	http://56lwuq98.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:41	http://a9350i8z.xyz:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:39	http://attcpehd.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:38	http://2puw5o64.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:35	http://ahcjfuct.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:35	http://attcpehd.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:33	http://a9350i8z.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:32	http://118.107.41.45:808/linux_mips64el_softfloat	Offline	botnet Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:27	http://118.107.41.45:808/linux_mips_softfloat	Offline	botnet Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:26	http://adlzosoe.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:26	http://56lwuq98.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:25	http://6l7c613p.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:20	http://118.107.41.45:808/linux_386	Offline	botnet Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:16	http://118.107.41.45:808/linux_arm6	Offline	botnet Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:16	http://a9350i8z.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:14	http://512qe0r4.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:14	http://auycsdvk.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:10	http://512qe0r4.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:09	http://1l14s7np.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:09	http://2puw5o64.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:07	http://attcpehd.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:00	http://attcpehd.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:23:00	http://adlzosoe.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:22:58	http://a9350i8z.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:22:57	http://ahcjfuct.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:22:54	http://ahcjfuct.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:22:49	http://1l14s7np.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:22:49	http://attcpehd.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:22:45	http://118.107.41.45:808/linux_amd64	Offline	botnet Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:22:43	http://512qe0r4.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:22:42	http://auycsdvk.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:22:41	http://512qe0r4.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:22:40	http://attcpehd.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:22:39	http://1l14s7np.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:22:31	http://auycsdvk.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:45	http://56lwuq98.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:37	http://adlzosoe.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:33	http://2puw5o64.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:32	http://56lwuq98.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:32	http://adlzosoe.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:32	http://attcpehd.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:29	http://512qe0r4.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:29	http://2puw5o64.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:29	http://56lwuq98.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:29	http://attcpehd.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:29	http://adlzosoe.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:28	http://adlzosoe.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:28	http://6l7c613p.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:27	http://a9350i8z.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:26	http://56lwuq98.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:25	http://118.107.41.45:808/linux_mips64	Offline	botnet Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:25	http://6l7c613p.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:23	http://118.107.41.45:808/linux_arm5	Offline	botnet Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:23	http://2puw5o64.xyz:808/linux_mips64el	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:22	http://auycsdvk.xyz:808/linux_mips64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:22	http://512qe0r4.xyz:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:21	http://adlzosoe.xyz:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:21	http://ahcjfuct.xyz:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:16	http://ahcjfuct.xyz:808/linux_ppc64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:16	http://2puw5o64.xyz:808/linux_mipsel	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:16	http://2puw5o64.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:16	http://56lwuq98.xyz:808/linux_arm7	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:15	http://a9350i8z.xyz:808/linux_mips	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:15	http://2puw5o64.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:15	http://512qe0r4.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:15	http://a9350i8z.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:07	http://attcpehd.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:06	http://1l14s7np.xyz:808/linux_arm5	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:02	http://512qe0r4.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:02	http://6l7c613p.xyz:808/linux_386	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:01	http://azhvgwsv.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:01	http://a9350i8z.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:01	http://1l14s7np.xyz:808/linux_amd64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:20:01	http://a9350i8z.xyz:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:19:53	http://adlzosoe.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:18:07	http://6l7c613p.xyz:808/linux_arm64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-02-01 20:18:07	http://6l7c613p.xyz:808/linux_arm6	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2026-01-15 18:03:18	http://202.61.139.34:65532/linux_mipsel	Offline	huntio Kaiji opendir ua-wget	 BlinkzSec
+2026-01-15 18:03:14	http://202.61.139.34:65532/linux_amd64	Offline	huntio Kaiji opendir ua-wget	 BlinkzSec
+2026-01-15 18:03:14	http://202.61.139.34:65532/linux_mips64	Offline	huntio Kaiji opendir ua-wget	 BlinkzSec
+2026-01-15 18:03:14	http://202.61.139.34:65532/linux_aarch64	Offline	huntio Kaiji opendir ua-wget	 BlinkzSec
+2026-01-15 18:03:14	http://202.61.139.34:65532/linux_mips64el	Offline	huntio Kaiji opendir ua-wget	 BlinkzSec
+2026-01-15 18:03:14	http://202.61.139.34:65532/linux_arm5	Offline	huntio Kaiji opendir ua-wget	 BlinkzSec
+2026-01-15 18:03:14	http://202.61.139.34:65532/linux_arm6	Offline	huntio Kaiji opendir ua-wget	 BlinkzSec
+2026-01-15 18:03:14	http://202.61.139.34:65532/linux_arm7	Offline	huntio Kaiji opendir ua-wget	 BlinkzSec
+2026-01-15 18:03:12	http://202.61.139.34:65532/linux_386	Offline	huntio Kaiji opendir ua-wget	 BlinkzSec
+2026-01-15 18:03:07	http://202.61.139.34:65532/linux_mips	Offline	huntio Kaiji opendir ua-wget	 BlinkzSec
+2025-11-13 18:35:43	http://39.97.229.220:8001/linux_mipsel	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-11-13 18:35:42	http://39.97.229.220:8001/linux_386	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-11-13 18:35:41	http://39.97.229.220:8001/linux_mips	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-11-13 18:35:22	http://39.97.229.220:8001/linux_mips64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-11-13 18:35:20	http://39.97.229.220:8001/linux_mips64el	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-11-13 18:35:19	http://39.97.229.220:8001/linux_arm64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-11-13 18:35:19	http://39.97.229.220:8001/linux_arm6	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-11-13 18:35:19	http://39.97.229.220:8001/linux_mipsel_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-11-13 18:35:19	http://39.97.229.220:8001/httd	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-11-13 18:35:19	http://39.97.229.220:8001/linux_mips64_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-11-13 18:35:19	http://39.97.229.220:8001/linux_arm7	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-11-13 18:35:19	http://39.97.229.220:8001/linux_mips64el_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-11-13 18:35:18	http://39.97.229.220:8001/linux_mips_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-11-13 18:35:18	http://39.97.229.220:8001/linux_ppc64el	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-11-13 18:35:16	http://39.97.229.220:8001/linux_ppc64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-11-13 18:35:15	http://39.97.229.220:8001/linux_amd64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-11-13 18:35:15	http://39.97.229.220:8001/linux_arm5	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-10-11 21:33:10	http://38.150.2.34/linux_amd64	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-10-11 21:32:22	http://38.150.2.34/download.sh	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-10-11 21:32:15	http://38.150.2.34/linux_mipsel	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-10-11 21:32:15	http://38.150.2.34/linux_386	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-10-11 21:32:15	http://38.150.2.34/linux_arm5	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-10-11 21:32:10	http://38.150.2.34/linux_mips	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-10-11 21:32:10	http://38.150.2.34/linux_arm7	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-10-11 21:32:09	http://38.150.2.34/linux_aarch64	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-10-11 21:32:09	http://38.150.2.34/linux_arm6	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-09-28 14:18:46	http://202.61.139.18:65120/linux_mipsel_softfloat	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 14:18:45	http://202.61.139.18:65120/linux_mips64	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 14:18:45	http://202.61.139.18:65120/linux_mips64_softfloat	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 14:18:45	http://202.61.139.18:65120/linux_mips	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 14:18:42	http://202.61.139.18:65120/linux_mips64el_softfloat	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 14:18:42	http://202.61.139.18:65120/linux_mips_softfloat	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 14:18:41	http://202.61.139.18:65120/linux_mips64el	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 14:18:38	http://202.61.139.18:65120/linux_mipsel	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 14:18:36	http://202.61.139.18:65120/linux_amd64	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 14:18:36	http://202.61.139.18:65120/linux_arm64	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 14:18:35	http://202.61.139.18:65120/linux_arm6	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 14:18:34	http://202.61.139.18:65120/linux_arm7	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 14:18:34	http://202.61.139.18:65120/linux_arm5	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 14:18:32	http://202.61.139.18:65120/linux_386	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 14:18:31	http://202.61.139.18:65120/linux_ppc64el	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 14:17:15	http://202.61.139.18:65120/linux_ppc64	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 13:46:42	http://202.61.139.34:65120/linux_mips64_softfloat	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 13:46:42	http://202.61.139.34:65120/linux_mips64	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 13:46:42	http://202.61.139.34:65120/linux_arm5	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 13:46:42	http://202.61.139.34:65120/linux_arm64	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 13:46:42	http://202.61.139.34:65120/linux_mipsel	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 13:46:42	http://202.61.139.34:65120/linux_ppc64	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 13:46:42	http://202.61.139.34:65120/linux_mipsel_softfloat	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 13:46:41	http://202.61.139.34:65120/linux_amd64	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 13:46:41	http://202.61.139.34:65120/linux_386	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 13:46:41	http://202.61.139.34:65120/linux_mips_softfloat	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 13:46:41	http://202.61.139.34:65120/linux_arm7	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 13:46:41	http://202.61.139.34:65120/linux_mips64el	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 13:46:41	http://202.61.139.34:65120/linux_mips64el_softfloat	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 13:46:41	http://202.61.139.34:65120/linux_ppc64el	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 13:46:41	http://202.61.139.34:65120/linux_mips	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-28 13:46:41	http://202.61.139.34:65120/linux_arm6	Offline	ELF geofenced Kaiji opendir ua-wget USA	 botnetkiller
+2025-09-27 21:16:22	http://202.61.139.34:65512/bin.x86	Offline	64-bit ELF Kaiji x86-64	 geenensp
+2025-09-14 12:20:46	http://68.69.184.110:8000/linux_mips64el	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-09-14 12:20:35	http://68.69.184.110:8000/linux_arm5	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-09-14 12:20:33	http://68.69.184.110:8000/linux_mipsel	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-09-14 12:20:23	http://68.69.184.110:8000/linux_aarch64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-09-14 12:20:20	http://68.69.184.110:8000/linux_arm7	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-09-14 12:20:15	http://68.69.184.110:8000/linux_amd64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-09-14 12:20:12	http://68.69.184.110:8000/linux_arm6	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-09-14 12:20:12	http://68.69.184.110:8000/linux_mips64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-09-14 12:20:12	http://68.69.184.110:8000/linux_mips	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-09-14 12:20:11	http://68.69.184.110:8000/linux_386	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-09-14 12:20:11	http://68.69.184.110:8000/download.sh	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-08-14 21:00:37	http://144.172.110.189/d/linux_mips64	Offline	bashlite Kaiji opendir	 DaveLikesMalwre
+2025-08-14 21:00:31	http://144.172.110.189/d/linux_arm7	Offline	bashlite Kaiji opendir	 DaveLikesMalwre
+2025-08-14 21:00:28	http://144.172.110.189/d/linux_mips64_softfloat	Offline	bashlite Kaiji opendir	 DaveLikesMalwre
+2025-08-14 21:00:28	http://144.172.110.189/d/linux_arm5	Offline	bashlite Kaiji opendir	 DaveLikesMalwre
+2025-08-14 21:00:26	http://144.172.110.189/d/linux_mipsel_softfloat	Offline	bashlite Kaiji opendir	 DaveLikesMalwre
+2025-08-14 21:00:24	http://144.172.110.189/d/linux_mipsel	Offline	bashlite Kaiji opendir	 DaveLikesMalwre
+2025-08-14 21:00:23	http://144.172.110.189/d/linux_mips64el	Offline	bashlite Kaiji opendir	 DaveLikesMalwre
+2025-08-14 21:00:19	http://144.172.110.189/d/linux_mips_softfloat	Offline	bashlite Kaiji opendir	 DaveLikesMalwre
+2025-08-14 21:00:15	http://144.172.110.189/d/linux_amd64	Offline	bashlite Kaiji opendir	 DaveLikesMalwre
+2025-08-14 21:00:14	http://144.172.110.189/d/linux_mips64el_softfloat	Offline	bashlite Kaiji opendir	 DaveLikesMalwre
+2025-08-14 21:00:14	http://144.172.110.189/d/linux_arm6	Offline	bashlite Kaiji opendir	 DaveLikesMalwre
+2025-08-14 21:00:14	http://144.172.110.189/d/linux_mips	Offline	bashlite Kaiji opendir	 DaveLikesMalwre
+2025-07-15 12:33:20	http://137.220.171.95/386	Offline	elf Kaiji ua-wget	 BlinkzSec
+2025-07-15 12:33:13	http://137.220.171.95/linux_386	Offline	elf Kaiji ua-wget	 BlinkzSec
+2025-07-14 08:41:10	http://156.238.225.44/linux_amd64	Offline	elf Kaiji ua-wget	 BlinkzSec
+2025-07-11 06:36:10	http://154.201.82.47:808/linux_mips64el	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:36:10	http://154.201.82.47:808/linux_mips_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:36:07	http://www.xikou.org:808/linux_mips64el_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:35:58	http://154.201.82.47:808/linux_ppc64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:35:49	http://154.201.82.47:808/linux_mips64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:35:44	http://www.xikou.org:808/linux_mips64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:35:40	http://www.xikou.org:808/linux_mips64_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:35:40	http://www.xikou.org:808/linux_mips	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:35:34	http://154.201.82.47:808/linux_ppc64el	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:35:32	http://www.xikou.org:808/linux_mipsel_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:35:31	http://154.201.82.47:808/linux_mips	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:35:30	http://www.xikou.org:808/linux_mips64el	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:35:30	http://154.201.82.47:808/linux_mips64el_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:35:29	http://154.201.82.47:808/linux_mipsel_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:35:21	http://www.xikou.org:808/linux_mips_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:35:15	http://154.201.82.47:808/linux_386	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:35:15	http://www.xikou.org:808/linux_amd64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:35:13	http://154.201.82.47:808/linux_arm7	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:35:13	http://154.201.82.47:808/linux_amd64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:35:13	http://www.xikou.org:808/linux_ppc64el	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:34:59	http://www.xikou.org:808/linux_arm7	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:34:53	http://154.201.82.47:808/linux_arm64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:34:50	http://www.xikou.org:808/linux_ppc64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:34:40	http://www.xikou.org:808/linux_386	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:34:15	http://www.xikou.org:808/linux_arm6	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:33:32	http://www.xikou.org:808/linux_mipsel	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:33:32	http://154.201.82.47:808/linux_mips64_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:33:28	http://154.201.82.47:808/linux_arm6	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:33:20	http://154.201.82.47:808/linux_mipsel	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:32:44	http://156.225.31.150:808/linux_386	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:32:43	http://156.225.31.150:808/linux_arm5	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:32:42	http://154.201.82.47:808/linux_arm5	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:32:42	http://156.225.31.150:808/linux_mipsel_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:32:35	http://156.225.31.150:808/linux_arm7	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:32:29	http://156.225.31.150:808/linux_mips64el	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:32:12	http://156.225.31.150:808/linux_mips64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:32:12	http://156.225.31.150:808/linux_ppc64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:32:09	http://www.xikou.org:808/linux_arm64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:32:06	http://156.225.31.150:808/linux_ppc64el	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:32:06	http://156.225.31.150:808/linux_mips64_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:32:05	http://156.225.31.150:808/linux_mips	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:32:00	http://156.225.31.150:808/linux_mips_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:31:59	http://156.225.31.150:808/linux_arm6	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:31:52	http://156.225.31.150:808/linux_arm64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:31:47	http://www.xikou.org:808/linux_arm5	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:31:32	http://156.225.31.150:808/linux_mips64el_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:31:32	http://156.225.31.150:808/linux_mipsel	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-07-11 06:31:08	http://156.225.31.150:808/linux_amd64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-06-08 18:27:26	http://156.225.31.188:808/linux_mipsel	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-06-08 18:27:26	http://156.225.31.188:808/linux_mips_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-06-08 18:27:24	http://156.225.31.188:808/linux_ppc64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-06-08 18:27:24	http://156.225.31.188:808/linux_mips64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-06-08 18:27:24	http://156.225.31.188:808/linux_mips64_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-06-08 18:27:23	http://156.225.31.188:808/linux_mips64el_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-06-08 18:27:23	http://156.225.31.188:808/linux_mipsel_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-06-08 18:27:22	http://156.225.31.188:808/linux_mips	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-06-08 18:27:21	http://156.225.31.188:808/linux_arm6	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-06-08 18:27:20	http://156.225.31.188:808/linux_mips64el	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-06-08 18:27:19	http://156.225.31.188:808/linux_386	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-06-08 18:27:18	http://156.225.31.188:808/linux_arm64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-06-08 18:27:17	http://156.225.31.188:808/linux_amd64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-06-08 18:27:15	http://156.225.31.188:808/linux_arm7	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-06-08 18:27:11	http://156.225.31.188:808/linux_ppc64el	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-06-08 18:27:02	http://156.225.31.188:808/linux_arm5	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-20 12:25:17	http://154.201.91.52:8000/linux_mips	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-20 12:25:17	http://154.201.91.52:8000/linux_arm5	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-20 12:25:16	http://154.201.91.52:8000/linux_arm6	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-20 12:25:13	http://154.201.91.52:8000/linux_386	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-20 12:25:13	http://154.201.91.52:8000/linux_mips64el	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-20 12:25:13	http://154.201.91.52:8000/linux_arm7	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-20 12:25:12	http://154.201.91.52:8000/linux_mipsel	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-20 12:25:12	http://154.201.91.52:8000/linux_mips64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-20 12:25:11	http://154.201.91.52:8000/linux_aarch64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-20 12:25:11	http://154.201.91.52:8000/linux_amd64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:37:33	http://cloud.xhttkl.com:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:37:30	http://cloud.xhttkl.com:808/linux_mips64	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:37:30	http://cloud.xhttkl.com:808/linux_mipsel	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:37:30	http://cloud.xhttkl.com:808/linux_amd64	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:37:24	http://cloud.xhttkl.com:808/linux_arm6	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:37:24	http://cloud.xhttkl.com:808/linux_ppc64	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:37:24	http://cloud.xhttkl.com:808/linux_386	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:37:24	http://cloud.xhttkl.com:808/linux_mips	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:37:24	http://cloud.xhttkl.com:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:37:24	http://cloud.xhttkl.com:808/linux_mips64el	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:37:24	http://cloud.xhttkl.com:808/linux_arm7	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:37:24	http://cloud.xhttkl.com:808/linux_ppc64el	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:37:24	http://cloud.xhttkl.com:808/linux_arm64	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:37:24	http://cloud.xhttkl.com:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:37:13	http://cloud.xhttkl.com:808/linux_arm5	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:37:11	http://cloud.xhttkl.com:808/linux_mips_softfloat	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:36:10	http://2.59.151.111:808/linux_mips	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:45	http://192.253.235.189/linux_arm7	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:44	http://192.253.235.56/linux_mips_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:44	http://2.59.151.111:808/linux_arm7	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:38	http://192.253.235.189/linux_mips64el_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:35	http://192.253.235.56/linux_amd64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:34	http://192.253.235.56/linux_386	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:34	http://192.253.235.189/linux_ppc64el	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:32	http://2.59.151.111:808/linux_mips64_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:31	http://2.59.151.111:808/linux_mips64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:31	http://2.59.151.111:808/linux_arm64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:31	http://2.59.151.111:808/linux_mipsel_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:29	http://192.253.235.189/linux_amd64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:28	http://2.59.151.111:808/linux_ppc64el	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:27	http://192.253.235.189/linux_mipsel_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:27	http://192.253.235.56/linux_arm5	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:25	http://2.59.151.111:808/linux_amd64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:24	http://192.253.235.189/linux_mips_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:24	http://192.253.235.56/linux_arm64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:23	http://2.59.151.111:808/linux_arm6	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:23	http://2.59.151.111:808/linux_ppc64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:23	http://2.59.151.111:808/linux_mips_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:23	http://192.253.235.189/linux_mips64el	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:20	http://2.59.151.111:808/linux_mipsel	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:20	http://192.253.235.56/linux_mips64_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:19	http://2.59.151.111:808/linux_386	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:19	http://2.59.151.111:808/linux_mips64el_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:19	http://2.59.151.111:808/linux_mips64el	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:18	http://2.59.151.111:808/linux_arm5	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:18	http://192.253.235.56/linux_mips64el_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:18	http://192.253.235.189/linux_mipsel	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:18	http://192.253.235.56/linux_mips	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:11	http://192.253.235.56/linux_ppc64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:11	http://192.253.235.189/linux_mips	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-19 18:35:08	http://192.253.235.189/linux_ppc64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-17 05:20:10	http://45.221.96.15/linux_amd64	Offline	censys elf Kaiji	 NDA0E
+2025-04-17 05:20:10	http://45.221.96.15/linux_mips	Offline	censys elf Kaiji	 NDA0E
+2025-04-17 05:20:09	http://45.221.96.15/linux_386	Offline	censys elf Kaiji	 NDA0E
+2025-04-17 05:20:09	http://45.221.96.15/linux_mipsel	Offline	censys elf Kaiji	 NDA0E
+2025-04-17 05:20:08	http://45.221.96.15/linux_mips64	Offline	censys elf Kaiji	 NDA0E
+2025-04-17 05:20:08	http://45.221.96.15/linux_arm5	Offline	censys elf Kaiji	 NDA0E
+2025-04-17 05:20:08	http://45.221.96.15/linux_mips64el	Offline	censys elf Kaiji	 NDA0E
+2025-04-17 05:20:08	http://45.221.96.15/linux_arm7	Offline	censys elf Kaiji	 NDA0E
+2025-04-17 05:20:08	http://45.221.96.15/linux_arm6	Offline	censys elf Kaiji	 NDA0E
+2025-04-17 05:20:07	http://45.221.96.15/linux_aarch64	Offline	censys elf Kaiji	 NDA0E
+2025-04-16 18:32:13	http://154.40.47.248:8000/linux_mips	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-16 18:32:12	http://154.40.47.248:8000/linux_aarch64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-16 18:32:10	http://154.40.47.248:8000/linux_mips64el	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-16 18:32:10	http://154.40.47.248:8000/linux_amd64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-16 18:32:09	http://154.40.47.248:8000/linux_386	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-16 18:32:09	http://154.40.47.248:8000/linux_arm5	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-16 18:32:09	http://154.40.47.248:8000/linux_arm6	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-16 18:32:09	http://154.40.47.248:8000/linux_mipsel	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-16 18:32:09	http://154.40.47.248:8000/linux_arm7	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-16 18:32:08	http://154.40.47.248:8000/linux_mips64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-16 18:32:06	http://154.40.47.248:8000/download.sh	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:29:04	http://file.weinitest.top:8880/linux_arm6	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:29:00	http://23.146.40.48:808/linux_mips64el_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:57	http://23.146.40.48:808/linux_mipsel_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:57	http://23.146.40.48:808/2/linux_arm6	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:55	http://23.146.40.48:808/linux_mips	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:54	http://23.146.40.48:808/2/linux_mips64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:52	http://file.weinitest.top:8880/linux_mips64el	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:48	http://23.146.40.48:808/linux_arm6	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:48	http://23.146.40.48:808/2/linux_mipsel	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:46	http://23.146.40.48:808/linux_mips64el	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:44	http://23.146.40.48:808/linux_arm5	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:42	http://file.weinitest.top:8880/linux_mipsel	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:42	http://23.146.40.48:808/2/linux_mips64el	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:41	http://file.weinitest.top:8880/linux_arm64	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:40	http://file.weinitest.top:8880/linux_386	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:39	http://file.weinitest.top:8880/linux_arm7	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:36	http://file.weinitest.top:8880/linux_arm5	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:36	http://file.weinitest.top:8880/linux_mips	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:35	http://file.weinitest.top:8880/2/linux_arm7	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:34	http://file.weinitest.top:8880/2/linux_amd64	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:34	http://file.weinitest.top:8880/linux_mips64el_softfloat	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:33	http://file.weinitest.top:8880/linux_mips64	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:32	http://file.weinitest.top:8880/2/linux_aarch64	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:31	http://file.weinitest.top:8880/2/linux_mips64el	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:30	http://23.146.40.48:808/linux_mips64_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:29	http://file.weinitest.top:8880/linux_mips_softfloat	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:28	http://file.weinitest.top:8880/2/linux_mips64	Offline	botnetdomain Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:26	http://23.146.40.48:808/2/linux_arm7	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:26	http://23.146.40.48:808/2/linux_arm5	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:25	http://23.146.40.48:808/linux_arm64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:24	http://23.146.40.48:808/linux_mipsel	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:21	http://23.146.40.48:808/linux_amd64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:19	http://23.146.40.48:808/linux_ppc64el	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:17	http://23.146.40.48:808/2/linux_mips	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:17	http://23.146.40.48:808/linux_mips_softfloat	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:15	http://23.146.40.48:808/linux_mips64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:13	http://23.146.40.48:808/linux_arm7	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:12	http://23.146.40.48:808/linux_ppc64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:10	http://23.146.40.48:808/linux_386	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:10	http://23.146.40.48:808/2/linux_aarch64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-04-12 18:28:06	http://23.146.40.48:808/2/linux_amd64	Offline	Kaiji opendir	 DaveLikesMalwre
+2025-03-18 23:53:04	http://156.225.31.175:808/linux_mips64	Offline	kaiji opendir	 DaveLikesMalwre
+2025-03-18 23:53:03	http://156.225.31.175:808/linux_mips64el	Offline	kaiji opendir	 DaveLikesMalwre
+2025-03-18 23:53:03	http://156.225.31.175:808/dw.sh	Offline	kaiji opendir	 DaveLikesMalwre
+2025-03-18 23:53:03	http://156.225.31.175:808/linux_mips	Offline	kaiji opendir	 DaveLikesMalwre
+2025-03-18 23:53:03	http://156.225.31.175:808/linux_ppc64el	Offline	kaiji opendir	 DaveLikesMalwre
+2025-03-18 23:53:03	http://156.225.31.175:808/linux_mips64el_softfloat	Offline	kaiji opendir	 DaveLikesMalwre
+2025-03-18 23:53:03	http://156.225.31.175:808/linux_ppc64	Offline	kaiji opendir	 DaveLikesMalwre
+2025-03-18 23:53:03	http://156.225.31.175:808/linux_mipsel	Offline	kaiji opendir	 DaveLikesMalwre
+2025-03-18 23:53:03	http://156.225.31.175:808/linux_mips64_softfloat	Offline	kaiji opendir	 DaveLikesMalwre
+2025-03-18 23:53:03	http://156.225.31.175:808/linux_arm64	Offline	kaiji opendir	 DaveLikesMalwre
+2025-03-18 23:53:03	http://156.225.31.175:808/linux_arm6	Offline	kaiji opendir	 DaveLikesMalwre
+2025-03-18 23:53:03	http://156.225.31.175:808/download.sh	Offline	kaiji opendir	 DaveLikesMalwre
+2025-03-18 23:53:03	http://156.225.31.175:808/linux_mips_softfloat	Offline	kaiji opendir	 DaveLikesMalwre
+2025-03-18 23:53:03	http://156.225.31.175:808/linux_386	Offline	kaiji opendir	 DaveLikesMalwre
+2025-03-18 23:53:03	http://156.225.31.175:808/linux_arm7	Offline	kaiji opendir	 DaveLikesMalwre
+2025-03-18 23:53:03	http://156.225.31.175:808/linux_mipsel_softfloat	Offline	kaiji opendir	 DaveLikesMalwre
+2025-03-18 23:53:03	http://156.225.31.175:808/linux_arm5	Offline	kaiji opendir	 DaveLikesMalwre
+2025-03-18 23:53:03	http://156.225.31.175:808/linux_amd64	Offline	kaiji opendir	 DaveLikesMalwre
+2025-02-22 19:17:07	http://196.251.85.22:40000/linux_amd64	Offline	elf Kaiji	 DaveLikesMalwre
+2025-02-22 19:17:07	http://196.251.85.22:40000/linux_386	Offline	elf Kaiji	 DaveLikesMalwre
+2025-02-22 19:17:06	http://196.251.85.22:40000/linux_mips64	Offline	elf Kaiji	 DaveLikesMalwre
+2025-02-22 19:17:06	http://196.251.85.22:40000/linux_aarch64	Offline	elf Kaiji	 DaveLikesMalwre
+2025-02-22 17:48:07	http://196.251.85.22:40000/linux_arm6	Offline	elf Kaiji	 tolisec
+2025-02-22 17:48:07	http://196.251.85.22:40000/linux_mips64el	Offline	elf Kaiji	 tolisec
+2025-02-22 17:48:07	http://196.251.85.22:40000/linux_mips	Offline	elf Kaiji	 tolisec
+2025-02-22 17:48:07	http://196.251.85.22:40000/linux_mipsel	Offline	elf Kaiji	 tolisec
+2025-02-22 17:48:06	http://196.251.85.22:40000/linux_arm5	Offline	elf Kaiji	 tolisec
+2025-02-21 23:27:06	http://196.251.85.22:40000/linux_arm7	Offline	32-bit ARM ELF Kaiji	 geenensp
+2025-02-16 16:03:20	http://nsaxem.dns.army:808/linux_mips_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:19	http://nsaxem.dns.army:808/linux_mipsel_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:16	http://199.195.252.200:808/linux_ppc64el	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:15	http://199.195.252.200:808/linux_arm64	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:15	http://nsaxem.dns.army:808/linux_mips64el	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:15	http://199.195.252.200:808/linux_mips64el	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:15	http://nsaxem.dns.army:808/linux_ppc64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:15	http://199.195.252.200:808/linux_386	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:15	http://nsaxem.dns.army:808/linux_386	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:15	http://199.195.252.200:808/linux_arm5	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:15	http://199.195.252.200:808/linux_mips64	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:15	http://199.195.252.200:808/linux_amd64	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:14	http://nsaxem.dns.army:808/linux_mips64el_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:14	http://nsaxem.dns.army:808/linux_arm5	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:14	http://199.195.252.200:808/linux_mips64_softfloat	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:14	http://nsaxem.dns.army:808/linux_mips64_softfloat	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:14	http://nsaxem.dns.army:808/linux_amd64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:13	http://199.195.252.200:808/linux_arm7	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:13	http://nsaxem.dns.army:808/linux_arm7	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:13	http://199.195.252.200:808/linux_mips64el_softfloat	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:13	http://199.195.252.200:808/linux_mips	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:13	http://199.195.252.200:808/linux_mips_softfloat	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:12	http://199.195.252.200:808/linux_mipsel_softfloat	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:12	http://199.195.252.200:808/linux_ppc64	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:12	http://199.195.252.200:808/linux_arm6	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:12	http://199.195.252.200:808/linux_mipsel	Offline	Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:12	http://nsaxem.dns.army:808/linux_ppc64el	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:05	http://nsaxem.dns.army:808/linux_mips	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:05	http://nsaxem.dns.army:808/linux_arm64	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:03	http://nsaxem.dns.army:808/linux_arm6	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-16 16:03:03	http://nsaxem.dns.army:808/linux_mipsel	Offline	botnetdomain Kaiji mirai - opendir	 DaveLikesMalwre
+2025-02-12 19:07:19	http://api-fgg3.cname.ah73g.xyz:808/linux_mipsel	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:07:19	http://api-fgg3.cname.ah73g.xyz:808/linux_mips_softfloat<...	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:07:18	http://api-fgg3.cname.ah73g.xyz:808/linux_mips	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:07:17	http://api-fgg3.cname.ah73g.xyz:808/linux_mipsel_softfloa...	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:07:17	http://api-fgg3.cname.ah73g.xyz:808/linux_mips64_softfloa...	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:07:16	http://api-fgg3.cname.ah73g.xyz:808/linux_mips64el_softfl...	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:07:16	http://api-fgg3.cname.ah73g.xyz:808/linux_mips64	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:07:15	http://api-fgg3.cname.ah73g.xyz:808/linux_mips64el	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:07:11	http://api-fgg3.cname.ah73g.xyz:808/linux_arm64	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:07:10	http://api-fgg3.cname.ah73g.xyz:808/linux_amd64	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:07:07	http://api-fgg3.cname.ah73g.xyz:808/linux_arm6	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:07:06	http://api-fgg3.cname.ah73g.xyz:808/linux_arm7	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:07:05	http://api-fgg3.cname.ah73g.xyz:808/linux_ppc64el	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:07:05	http://api-fgg3.cname.ah73g.xyz:808/linux_arm5	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:07:02	http://api-fgg3.cname.ah73g.xyz:808/linux_386	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:06:57	http://api-fgg3.cname.ah73g.xyz:808/linux_ppc64	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:04:02	http://103.116.246.3:808/linux_mips64el	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:04:02	http://103.116.246.3:808/linux_mips64el_softfloat	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:04:01	http://103.116.246.3:808/linux_mips64_softfloat	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:04:00	http://103.116.246.3:808/linux_mipsel	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:04:00	http://103.116.246.3:808/linux_mipsel_softfloat	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:03:59	http://103.116.246.3:808/linux_mips64	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:03:57	http://103.116.246.3:808/linux_mips_softfloat	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:03:57	http://103.116.246.3:808/linux_mips	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:03:56	http://103.116.246.3:808/linux_ppc64	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:03:54	http://103.116.246.3:808/linux_arm64	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:03:53	http://103.116.246.3:808/linux_arm6	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:03:53	http://103.116.246.3:808/linux_amd64	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:03:53	http://103.116.246.3:808/linux_arm7	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:03:52	http://103.116.246.3:808/linux_arm5	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:03:50	http://103.116.246.3:808/linux_386	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 19:03:43	http://103.116.246.3:808/linux_ppc64el	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:27:20	http://dw.arsnb.cc:808/linux_mips64_softfloat	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:27:20	http://dw.arsnb.cc:808/linux_mips	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:27:19	http://dw.arsnb.cc:808/linux_mips_softfloat	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:27:16	http://dw.arsnb.cc:808/linux_mips64	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:27:16	http://dw.arsnb.cc:808/linux_386	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:27:16	http://dw.arsnb.cc:808/linux_arm5	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:27:16	http://dw.arsnb.cc:808/linux_mipsel_softfloat	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:27:16	http://dw.arsnb.cc:808/linux_mips64el_softfloat	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:27:16	http://dw.arsnb.cc:808/linux_arm7	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:27:15	http://dw.arsnb.cc:808/linux_mips64el	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:27:14	http://dw.arsnb.cc:808/linux_arm6	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:27:13	http://dw.arsnb.cc:808/linux_arm64	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:27:13	http://dw.arsnb.cc:808/linux_amd64	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:27:13	http://dw.arsnb.cc:808/linux_mipsel	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:27:12	http://dw.arsnb.cc:808/linux_ppc64	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:27:12	http://dw.arsnb.cc:808/linux_ppc64el	Offline	botnetdomain elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:26:18	http://206.206.76.202:808/linux_386	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:26:17	http://206.206.76.202:808/linux_mips64el	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:26:17	http://206.206.76.202:808/linux_arm5	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:26:17	http://206.206.76.202:808/linux_ppc64	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:26:15	http://206.206.76.202:808/linux_arm64	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:26:15	http://206.206.76.202:808/linux_mips_softfloat	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:26:15	http://206.206.76.202:808/linux_mips	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:26:15	http://206.206.76.202:808/linux_mipsel_softfloat	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:26:15	http://206.206.76.202:808/linux_amd64	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:26:15	http://206.206.76.202:808/linux_arm7	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:26:15	http://206.206.76.202:808/linux_mips64el_softfloat	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:26:14	http://206.206.76.202:808/linux_mips64_softfloat	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:26:14	http://206.206.76.202:808/linux_mipsel	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:26:14	http://206.206.76.202:808/linux_ppc64el	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:26:14	http://206.206.76.202:808/linux_arm6	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-12 18:26:12	http://206.206.76.202:808/linux_mips64	Offline	elf kaiji opendir	 DaveLikesMalwre
+2025-02-06 00:09:12	http://103.192.179.32/linux_mips64	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2025-02-06 00:09:09	http://103.192.179.32/linux_mips64el	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2025-02-06 00:09:09	http://103.192.179.32/linux_amd64	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2025-02-06 00:09:09	http://103.192.179.32/linux_mips	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2025-02-06 00:09:09	http://103.192.179.32/linux_arm5	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2025-02-06 00:09:08	http://103.192.179.32/linux_mipsel	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2025-02-06 00:09:08	http://103.192.179.32/linux_386	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2025-02-06 00:09:07	http://103.192.179.32/linux_arm7	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2025-02-06 00:09:07	http://103.192.179.32/linux_arm6	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2025-02-06 00:09:06	http://103.192.179.32/linux_aarch64	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2025-01-29 13:36:17	http://198.251.82.160:2075/s/mipsel	Offline	elf HFS Kaiji opendir	 DaveLikesMalwre
+2025-01-29 13:36:15	http://198.251.82.160:2075/t/mipsel	Offline	elf HFS Kaiji opendir	 DaveLikesMalwre
+2025-01-29 13:36:15	http://198.251.82.160:2075/b/mipsel	Offline	elf HFS Kaiji opendir	 DaveLikesMalwre
+2025-01-29 13:36:14	http://198.251.82.160:2075/t/mips	Offline	elf HFS Kaiji opendir	 DaveLikesMalwre
+2025-01-29 13:36:13	http://198.251.82.160:2075/s/mips	Offline	elf HFS Kaiji opendir	 DaveLikesMalwre
+2025-01-29 10:07:08	http://198.251.82.160:2075/b/mips	Offline	32-bit elf Kaiji	 threatquery
+2025-01-21 10:56:08	http://198.251.82.160:2072/s/mipsel	Offline	32-bit elf Kaiji	 threatquery
+2025-01-18 17:53:10	http://198.251.82.160:2072/s/mips	Offline	32-bit elf Kaiji	 threatquery
+2025-01-17 06:24:10	http://198.251.82.160:2072/t/mips	Offline	32-bit elf Kaiji	 threatquery
+2025-01-17 06:24:09	http://198.251.82.160:2072/t/mipsel	Offline	32-bit elf Kaiji	 threatquery
+2025-01-16 22:50:13	http://198.251.82.160:2072/b/mips	Offline	32-bit elf Kaiji	 threatquery
+2025-01-16 22:50:12	http://198.251.82.160:2072/b/mipsel	Offline	32-bit elf Kaiji	 threatquery
+2025-01-14 11:47:26	http://198.251.82.160:20722/t/mips	Offline	elf HFS Kaiji opendir	 DaveLikesMalwre
+2025-01-14 11:47:25	http://198.251.82.160:20722/t/mipsel	Offline	elf HFS Kaiji opendir	 DaveLikesMalwre
+2025-01-14 05:57:10	http://198.251.82.160:20722/s/mipsel	Offline	32-bit elf Kaiji	 threatquery
+2025-01-14 05:57:10	http://198.251.82.160:20722/s/mips	Offline	32-bit elf Kaiji	 threatquery
+2025-01-13 07:01:08	http://bookkeeping.wannanxi.com/ds.sh	Offline	Kaiji	 cesnet_certs
+2025-01-13 00:33:11	http://198.251.82.160:20722/b/mips	Offline	32-bit elf Kaiji	 threatquery
+2025-01-11 05:24:11	http://198.251.82.160:20722/b/mipsel	Offline	32-bit elf Kaiji	 threatquery
+2025-01-08 14:32:42	http://45.61.185.69:20722/t/mipsel	Offline	elf Kaiji	 NDA0E
+2025-01-08 14:32:41	http://45.61.185.69:20722/s/mips	Offline	elf Kaiji	 NDA0E
+2025-01-08 14:32:41	http://45.61.185.69:20722/t/mips	Offline	elf Kaiji	 NDA0E
+2025-01-08 14:32:35	http://45.61.185.69:20722/s/mipsel	Offline	elf Kaiji	 NDA0E
+2025-01-07 22:49:11	http://45.61.185.69:20722/b/mipsel	Offline	32-bit elf Kaiji	 threatquery
+2025-01-06 09:51:09	http://45.61.185.69:20722/b/mips	Offline	32-bit elf Kaiji	 threatquery
+2025-01-02 07:04:08	http://80.76.49.14:20722/b/mips	Offline	32-bit elf Kaiji	 threatquery
+2024-12-31 16:03:09	http://45.88.91.244:20722/b/mipsel	Offline	32-bit elf Kaiji	 threatquery
+2024-12-27 03:47:08	http://85.209.133.28:20722/b/mipsel	Offline	32-bit elf Kaiji	 threatquery
+2024-12-25 11:54:08	http://85.209.133.6:20722/t/mips	Offline	32-bit elf Kaiji	 threatquery
+2024-12-06 14:06:34	http://93.123.85.138:51184/linux_arm6	Offline	elf Kaiji	 abus3reports
+2024-12-06 07:13:08	http://103.192.179.31/linux_386xxx	Offline	elf Kaiji	 abus3reports
+2024-12-06 07:13:08	http://103.192.179.31/linux_amd64xxxx	Offline	elf Kaiji	 abus3reports
+2024-12-04 12:06:12	http://93.123.85.138:51184/linux_arm7	Offline	elf Kaiji	 abus3reports
+2024-11-25 22:42:25	http://103.192.179.31/linux_mipsel_softfloat	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2024-11-25 22:42:24	http://103.192.179.31/linux_ppc64	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2024-11-25 22:42:24	http://103.192.179.31/linux_arm6	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2024-11-25 22:42:24	http://103.192.179.31/linux_mips64el_softfloat	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2024-11-25 22:42:22	http://103.192.179.31/linux_ppc64el	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2024-11-25 22:42:22	http://103.192.179.31/linux_mips	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2024-11-25 22:42:22	http://103.192.179.31/linux_386	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2024-11-25 22:42:22	http://103.192.179.31/linux_mips64el	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2024-11-25 22:42:21	http://103.192.179.31/linux_arm7	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2024-11-25 22:42:21	http://103.192.179.31/linux_mips64_softfloat	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2024-11-25 22:42:21	http://103.192.179.31/linux_mips64	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2024-11-25 22:42:21	http://103.192.179.31/linux_arm5	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2024-11-25 22:42:21	http://103.192.179.31/linux_arm64	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2024-11-25 22:42:21	http://103.192.179.31/linux_mips_softfloat	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2024-11-25 22:42:21	http://103.192.179.31/linux_amd64	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2024-11-25 22:42:19	http://103.192.179.31/linux_mipsel	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2024-11-25 22:42:14	http://103.192.179.31/linux_aarch64	Offline	elf Kaiji opendir	 DaveLikesMalwre
+2024-11-25 22:42:09	http://103.192.179.31/runji.sh	Offline	Kaiji opendir sh	 DaveLikesMalwre
+2024-11-11 11:00:18	http://vi2.02nier.com/linux_mipsel	Offline	elf Kaiji ua-wget	 BlinkzSec
+2024-11-11 11:00:18	http://vi2.02nier.com/linux_386	Offline	elf Kaiji ua-wget	 BlinkzSec
+2024-11-11 11:00:18	http://vi2.02nier.com/linux_arm6	Offline	elf Kaiji ua-wget	 BlinkzSec
+2024-11-11 11:00:18	http://vi2.02nier.com/linux_arm5	Offline	elf Kaiji ua-wget	 BlinkzSec
+2024-11-11 11:00:18	http://vi2.02nier.com/linux_amd64	Offline	elf Kaiji ua-wget	 BlinkzSec
+2024-11-11 11:00:18	http://vi2.02nier.com/linux_mips	Offline	elf Kaiji ua-wget	 BlinkzSec
+2024-11-11 11:00:18	http://vi2.02nier.com/linux_mips64	Offline	elf Kaiji ua-wget	 BlinkzSec
+2024-11-11 11:00:18	http://vi2.02nier.com/linux_mips64el	Offline	elf Kaiji ua-wget	 BlinkzSec
+2024-11-11 11:00:16	http://vi2.02nier.com/linux_aarch64	Offline	elf Kaiji ua-wget	 BlinkzSec
+2024-11-11 11:00:15	http://vi2.02nier.com/linux_arm7	Offline	elf Kaiji ua-wget	 BlinkzSec
+2024-11-10 06:01:23	http://38.55.251.57:5555/linux_386	Offline	Kaiji	 cesnet_certs
+2024-11-08 09:18:20	http://154.201.84.237:888/linux_mips64el_softfloat	Offline	elf Kaiji opendir	 abus3reports
+2024-11-08 09:18:20	http://154.201.84.237:888/linux_mips64el	Offline	elf Kaiji opendir	 abus3reports
+2024-11-08 09:18:20	http://154.201.84.237:888/linux_mipsel_softfloat	Offline	elf Kaiji opendir	 abus3reports
+2024-11-08 09:18:20	http://154.201.84.237:888/linux_mips_softfloat	Offline	elf Kaiji opendir	 abus3reports
+2024-11-08 09:18:20	http://154.201.84.237:888/linux_mipsel	Offline	elf Kaiji opendir	 abus3reports
+2024-11-08 09:18:20	http://154.201.84.237:888/linux_mips	Offline	elf Kaiji opendir	 abus3reports
+2024-11-08 09:18:19	http://154.201.84.237:888/linux_mips64	Offline	elf Kaiji opendir	 abus3reports
+2024-11-08 09:18:19	http://154.201.84.237:888/linux_mips64_softfloat	Offline	elf Kaiji opendir	 abus3reports
+2024-11-08 09:18:13	http://154.201.84.237:888/linux_arm7	Offline	elf Kaiji opendir	 abus3reports
+2024-11-08 09:18:09	http://154.201.84.237:888/linux_amd64	Offline	elf Kaiji opendir	 abus3reports
+2024-11-08 09:18:08	http://154.201.84.237:888/linux_arm6	Offline	elf Kaiji opendir	 abus3reports
+2024-11-08 09:18:06	http://154.201.84.237:888/linux_arm64	Offline	elf Kaiji opendir	 abus3reports
+2024-11-08 09:18:04	http://154.201.84.237:888/linux_arm5	Offline	elf Kaiji opendir	 abus3reports
+2024-11-08 09:18:03	http://154.201.84.237:888/linux_ppc64el	Offline	elf Kaiji opendir	 abus3reports
+2024-11-08 09:18:00	http://154.201.84.237:888/linux_ppc64	Offline	elf Kaiji opendir	 abus3reports
+2024-11-08 09:18:00	http://154.201.84.237:888/linux_386	Offline	elf Kaiji opendir	 abus3reports
