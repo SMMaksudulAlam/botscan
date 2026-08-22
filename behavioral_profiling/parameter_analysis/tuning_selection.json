@@ -1,0 +1,52 @@
+{
+  "K": 10,
+  "lam": 2.0,
+  "rationale": "final_mean is lambda-invariant (propagation only reorders visits within an already-reachable set). K's marginal slope (d(final_mean)/dK) drops to <10% of its steepest early value by K=5 (Mirai) / K=10 (Gafgyt); we take the larger, K=10, as the shared choice. At K=10, Mirai captures 97.5% and Gafgyt 86.5% of their respective grid-best final counts. lambda's marginal slope (on AUC, since lambda only affects speed) drops the same way by lambda=1.5 (Mirai) / lambda=2.0 (Gafgyt); taking the larger gives lambda=2.0.",
+  "slope_fraction": 0.1,
+  "k_elbows_per_family": {
+    "mirai": 5.0,
+    "gafgyt": 10.0
+  },
+  "lam_elbows_per_family": {
+    "mirai": 1.5,
+    "gafgyt": 2.0
+  },
+  "mirai_at_final": {
+    "final_mean": 871.2,
+    "auc_mean": 302.9384371389998,
+    "grid_best_final": 893.4
+  },
+  "gafgyt_at_final": {
+    "final_mean": 147.0,
+    "auc_mean": 48.06076256681301,
+    "grid_best_final": 170.0
+  },
+  "window": 200,
+  "k_grid": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    10,
+    15,
+    20,
+    30,
+    40
+  ],
+  "lam_grid": [
+    0.5,
+    1,
+    1.5,
+    2,
+    2.5,
+    3,
+    5,
+    10,
+    15,
+    20
+  ]
+}
