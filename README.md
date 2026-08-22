@@ -14,17 +14,17 @@ provided parts: the **scanner** (`scanner_tool/`) and the **behavior-adaptive
 target selector** (`behavior_adaptive_algorithm/`).
 
 The Evaluation 1 target space was first measured with the complete BotScan
-system (active port discovery + replay-based probing), producing the C2
+system (active port discovery + adaptive replay-based active probing), producing the C2
 outcomes used in the study. The comparison shipped here is an **offline replay
 of that completed measurement**: each policy (BotScan and the baselines) selects
 its next target using its own algorithm, and a target is counted as a hit if it
 appears in the shared list of C2 IPs detected in that earlier active-probing
 phase. **No packets are sent by the notebook.** We do this for reproducibility
-(anyone can re-run it without Internet-wide probing) and fairness (replaying all
+(anyone can re-run it without Internet-wide probing), and fairness (replaying all
 policies against one fixed outcome set removes live-host availability and flaky
 C2 responsiveness as a confound, so differences reflect the selection strategy
-itself). After acceptance we will release the integrated end-to-end package that
-connects the scanner to the selector.
+itself), along with the security liability. After acceptance, we will release the integrated end-to-end package that 
+connects BotScan's scanner to its adaptive selector.
 
 ## Directory Structure
 
