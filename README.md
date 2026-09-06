@@ -17,7 +17,7 @@ In our work, the Evaluation 1 target space was measured with the complete end-to
 system (active port discovery + adaptive replay-based active probing), producing the live C2
 outcomes. However, the evidence shown in the artifact is purposefully kept **offline:** although each policy (BotScan and the comparable baselines) is run on its own right under the target-space, selecting its next target using the algorithm policy; a target is counted as a hit if it
 appears in the shared list of C2 IPs detected in that earlier live active-probing
-phase inside the target-space. Please note that this artifact validation allows **no malicious packets of C2 communication to be sent by the notebook**, but the other info, i.e., metadata of target-space, AS info, etc., is still crawled from the internet at runtime according to the requirements. We do this artifact design purposefully for reproducibility
+phase inside the target-space. Please note that this artifact validation allows **no malicious packets of C2 communication to be sent out of the notebook**, but the other info, i.e., metadata of target-space, AS info, etc., is still crawled from the internet at runtime according to the algorithm's requirements. We do this artifact design purposefully for reproducibility
 (anyone can re-run it without Internet-wide probing), fairness among policies on the same context (replaying all
 policies against one fixed outcome set removes live-host availability and flaky
 C2 responsiveness as a confound, so differences reflect the selection strategy
