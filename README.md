@@ -13,17 +13,17 @@ convenience of evaluation, we separate the system into two independently
 provided parts: the **scanner** (`scanner_tool/`) and the **behavior-adaptive
 target selector** (`behavior_adaptive_algorithm/`).
 
-The Evaluation 1 target space was first measured with the complete BotScan
-system (active port discovery + adaptive replay-based active probing), producing the C2
-outcomes used in the study. The comparison shipped here is an **offline replay
-of that completed measurement**: each policy (BotScan and the baselines) selects
+In our work, the Evaluation 1 target space was measured with the complete end-to-end BotScan
+system (active port discovery + adaptive replay-based active probing), producing the live C2
+outcomes. However, the evidence shown in the artifact is an **offline replay
+of that completed measurement**: each policy (BotScan and the comparable baselines) selects
 its next target using its own algorithm, and a target is counted as a hit if it
 appears in the shared list of C2 IPs detected in that earlier active-probing
-phase. **No packets are sent by the notebook.** We do this for reproducibility
-(anyone can re-run it without Internet-wide probing), and fairness (replaying all
+phase. Please note that **no malicious packets are sent by the notebook**, but the other required info, i.e., metadata of target-space, AS info, etc., is still crawled from the internet at runtime for adaptive ranking. We do this purposefully for reproducibility
+(anyone can re-run it without Internet-wide probing), fairness among policies on the same context (replaying all
 policies against one fixed outcome set removes live-host availability and flaky
 C2 responsiveness as a confound, so differences reflect the selection strategy
-itself), along with the security liability. After acceptance, we will release the integrated end-to-end package that 
+itself), and to avoid any security concerns. After acceptance, we will release the integrated end-to-end package that 
 connects BotScan's scanner to its adaptive selector.
 
 ## Directory Structure
